@@ -1,0 +1,1 @@
+scrapy crawl wikipedia_update -a num_day=5
